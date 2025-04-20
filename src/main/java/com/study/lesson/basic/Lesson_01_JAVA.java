@@ -1,6 +1,5 @@
 package com.study.lesson.basic;
 
-
 import org.jetbrains.annotations.Nullable;
 
 import java.util.ArrayList;
@@ -25,7 +24,7 @@ public class Lesson_01_JAVA {
         Person person = new Person("홍길동");
     }
 
-    static class Person {
+    public static class Person {
         private final String name;
 
         public Person(String name) {

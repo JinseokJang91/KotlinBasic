@@ -1,6 +1,6 @@
 package com.study.lesson
 
-import com.study.lesson.Lesson_01_JAVA.Person
+import com.study.lesson.basic.Lesson_01_JAVA.Person
 
 /* 코틀린에서 변수를 다루는 방법 */
 fun main() {

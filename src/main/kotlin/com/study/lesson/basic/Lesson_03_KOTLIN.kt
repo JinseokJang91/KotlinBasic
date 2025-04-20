@@ -1,6 +1,6 @@
 package com.study.lesson
 
-import com.study.lesson.Lesson_01_JAVA.*
+import com.study.lesson.basic.Lesson_01_JAVA.Person
 
 // 코틀린에서는 선언된 기본값을 보고 타입을 추론한다.
 // e.g.1. val num = 3L // Long
