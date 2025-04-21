@@ -1,5 +1,7 @@
 package com.study.lesson.basic
 
+/* LESSON 05. 코틀린에서 제어문을 다루는 방법 */
+
 fun main() {
     // 1. if문
     // validateScoreIsNotNegative(-10) // ⚠️ 예외 발생

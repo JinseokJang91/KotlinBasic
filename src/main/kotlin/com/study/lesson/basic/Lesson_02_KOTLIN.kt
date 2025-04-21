@@ -1,8 +1,8 @@
-package com.study.lesson
+package com.study.lesson.basic
 
 import com.study.lesson.basic.Lesson_01_JAVA.Person
 
-/* 코틀린에서 null을 다루는 방법 */
+/* LESSON 02. 코틀린에서 null을 다루는 방법 */
 fun main() {
     // ⭐ Safe call과 Elvis 연산자는 early return에도 유용하게 사용 가능
 

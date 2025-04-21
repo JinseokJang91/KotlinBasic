@@ -1,7 +1,6 @@
-package com.study.lesson
+package com.study.lesson.basic
 
-import com.study.lesson.basic.JavaMoney
-import com.study.lesson.basic.KotlinMoney
+/* LESSON 04. 코틀린에서 연산자를 다루는 방법 */
 
 fun main() {
     // 1. 단항 연산자 / 산술 연산자

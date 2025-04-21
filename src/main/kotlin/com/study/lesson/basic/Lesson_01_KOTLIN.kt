@@ -1,8 +1,8 @@
-package com.study.lesson
+package com.study.lesson.basic
 
 import com.study.lesson.basic.Lesson_01_JAVA.Person
 
-/* 코틀린에서 변수를 다루는 방법 */
+/* LESSON 01. 코틀린에서 변수를 다루는 방법 */
 fun main() {
     // ⭐ 코틀린은 모든 변수는 val, 필요한 경우만 var 사용 권고
 
