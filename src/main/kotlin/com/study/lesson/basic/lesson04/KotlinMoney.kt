@@ -1,4 +1,4 @@
-package com.study.lesson.basic
+package com.study.lesson.basic.lesson04
 
 data class KotlinMoney (
     val amount: Long

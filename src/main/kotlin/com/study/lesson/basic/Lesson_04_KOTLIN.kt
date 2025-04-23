@@ -1,5 +1,8 @@
 package com.study.lesson.basic
 
+import com.study.lesson.basic.lesson04.JavaMoney
+import com.study.lesson.basic.lesson04.KotlinMoney
+
 /* LESSON 04. 코틀린에서 연산자를 다루는 방법 */
 
 fun main() {
