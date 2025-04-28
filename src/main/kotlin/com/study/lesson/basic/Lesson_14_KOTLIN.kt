@@ -2,6 +2,8 @@ package com.study.lesson.basic
 
 import com.study.lesson.basic.lesson14.*
 
+/* LESSON 14. 코틀린에서 다양한 클래스를 다루는 방법 */
+
 fun main() {
     // 1. Data Class
     val person = PersonDto("John", 20)

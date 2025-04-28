@@ -1,5 +1,7 @@
 package com.study.lesson.basic
 
+/* LESSON 13. 코틀린에서 중첩 클래스를 다루는 방법 */
+
 fun main() {
     // 1. 중첩 클래스의 종류
     // (1) static을 사용하는 중첩 클래스

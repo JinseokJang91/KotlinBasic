@@ -1,5 +1,7 @@
 package com.study.lesson.basic
 
+/* LESSON 15. 코틀린에서 배열과 컬렉션을 다루는 방법 */
+
 fun main() {
     // 1. 배열
     val array = arrayOf(100, 200)
