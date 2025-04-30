@@ -1,6 +1,5 @@
 package com.study.lesson.basic
 
-import com.study.lesson.basic.lesson17.Fruit
 import com.study.lesson.basic.lesson18.Fruit18
 
 /* LESSON 18. 코틀린에서 컬렉션을 함수형으로 다루는 방법 */
